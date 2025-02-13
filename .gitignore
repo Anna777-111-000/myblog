@@ -1,0 +1,10 @@
+    *.pyc
+    __pycache__/
+    db.sqlite3
+    venv/      
+    *.swp
+    *.DS_Store
+    /static
+    /media
+    
+
